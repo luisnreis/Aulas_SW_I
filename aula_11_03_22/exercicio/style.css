@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@700&display=swap');
+
+html, body, p{
+    font-family: 'Fuzzy Bubbles', cursive;
+    color: snow;
+}
+
+label, input{
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 1.3rem;
+}
+
+body{
+    background-color: black;
+}
+
+input[type=submit]:hover{
+    background-color: snow;
+}
